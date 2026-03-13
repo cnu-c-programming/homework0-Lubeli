@@ -6,9 +6,9 @@ int main()
     unsigned int b = 1;
 
     if(a < b){
-        printf("a<b\n");
+        printf("a < b\n");
     }else{
-        printf("a>=b ???\n");
+        printf("a >= b ???\n");
     }
 
     return 0;
